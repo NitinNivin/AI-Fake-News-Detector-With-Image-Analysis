@@ -1,0 +1,11 @@
+google-generativeai
+requests
+beautifulsoup4
+python-dotenv
+streamlit
+torch
+torchvision
+Pillow
+newspaper3k
+nltk
+lxml-html-clean
